@@ -21,7 +21,7 @@
 ### 1. Клонировать репозиторий
 
 ```bash
-git clone https://github.com/<your-username>/speech-denoising-diplom.git
+git clone https://github.com/volchek2004/speech-denoising-diplom.git
 cd speech-denoising-diplom
 ```
 
@@ -53,7 +53,7 @@ python main.py --mode download
 **Вариант А — скачать готовые веса (рекомендуется):**
 
 Скачать `best_model.pt` и положить в папку `checkpoints/`:  
-*(ссылка добавляется после публикации)*
+*https://drive.google.com/file/d/13T299KmHsjqB35UAkxxb3XCauwt3JMFd/view?usp=sharing*
 
 **Вариант Б — обучить самостоятельно:**
 
