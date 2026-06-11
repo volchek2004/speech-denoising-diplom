@@ -38,7 +38,7 @@ pip install -r requirements.txt
 - **LibriSpeech train-clean-100** — чистая речь (~6.3 GB, ~28 000 файлов `.flac`)  
   https://www.openslr.org/12
 - **UrbanSound8K** — городские шумы (8 732 файла `.wav`, 10 классов)  
-  https://urbansounddataset.weebly.com/urbansound8k.html
+  https://drive.google.com/drive/folders/1Wl5yjQlgW0MIno1SXvAlExO9vPqfQN-M?usp=sharing
 
 Либо запустить автоматическую загрузку:
 
@@ -162,4 +162,4 @@ speech-denoising-diploma/
 ## Данные
 
 - [LibriSpeech ASR corpus](https://www.openslr.org/12) — чистая речь на основе аудиокниг Project Gutenberg
-- [UrbanSound8K](https://urbansounddataset.weebly.com/urbansound8k.html) — городские шумы (автомобили, стройка, музыка, толпа и др.)
+- [UrbanSound8K](https://drive.google.com/drive/folders/1Wl5yjQlgW0MIno1SXvAlExO9vPqfQN-M?usp=sharing) — городские шумы (автомобили, стройка, музыка, толпа и др.)
