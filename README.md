@@ -21,8 +21,8 @@
 ### 1. Клонировать репозиторий
 
 ```bash
-git clone https://github.com/<your-username>/speech-denoising-diploma.git
-cd speech-denoising-diploma
+git clone https://github.com/<your-username>/speech-denoising-diplom.git
+cd speech-denoising-diplom
 ```
 
 ### 2. Установить зависимости
