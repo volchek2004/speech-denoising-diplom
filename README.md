@@ -52,7 +52,7 @@ python main.py --mode download
 
 **Вариант А — скачать готовые веса (рекомендуется):**
 
-Скачать `best_model.pt` и положить в папку `checkpoints/`:  
+Скачать `final_model_full.pt` и положить в папку `checkpoints/`:  
 *https://drive.google.com/file/d/13T299KmHsjqB35UAkxxb3XCauwt3JMFd/view?usp=sharing*
 
 **Вариант Б — обучить самостоятельно:**
